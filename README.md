@@ -6,4 +6,4 @@ Once you've completed a step, check back at the Wheelhouse class to see whether 
 
 Happy learning!
 
-This is an edit from jobaniyi
+HI this is kaia doing step 2 Alex: Make some changes to a file in your forked repository, and then commit your changes.
