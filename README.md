@@ -1,4 +1,4 @@
-# from kaia as alex on step #3 Alex: Make some different changes on the same line of the chosen file, but in your repository. Commit your changes.
+# from kaia as alex on step #3 Alex: Make some different changes on the same line of the chosen file, but in your repository. Commit your changes. jobaniyi
 
 Follow the directions from the class in this repo.
 
