@@ -1,4 +1,4 @@
-# Welcome to the GitHub Workflow Class from jobaniyi
+# Welcome to the GitHub Workflow Class
 
 Follow the directions from the class in this repo.
 
